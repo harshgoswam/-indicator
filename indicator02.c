@@ -17,7 +17,7 @@ main()
 		for(i=0;i<n;i++)
 	{
 		
-	    printf("%d ",*p+i);
+	    printf("%d ",*(p+i));
 		
 	}
 }
